@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 # within the directory
-local_config.py
+**/local_config.py
 
 
 __pycache__/
