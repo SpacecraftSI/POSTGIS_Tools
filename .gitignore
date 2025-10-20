@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 # within the directory
-**/dfo_runner.py
+.env
 
 
 __pycache__/
