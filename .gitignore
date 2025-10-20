@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+
+# within the directory
+dfo_runner.py
+
+
 __pycache__/
 *.py[codz]
 *$py.class
